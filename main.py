@@ -5,6 +5,15 @@ the five seconds after sweeping a glass off the table. No apology, no
 confession - just the most convincing case a cat can make for itself:
 the glass was already falling, the paw merely assisted gravity, and
 the glass itself was frankly asking for it.
+
+The defence works because it never once admits fault while sounding
+perfectly reasonable about physics. Gravity did the falling, the paw only
+helped, and the glass - loud, fragile, perched exactly where a tail could
+reach it - practically volunteered for the job. The cat is not sorry, the
+table is better off without the clutter, and five seconds is exactly long
+enough to deliver this verdict before strolling away mid-sentence. It is
+a complete legal defence, a physics lecture, and a shrug, all delivered
+by a creature that has never once knocked anything over on purpose.
 """
 
 import sys
